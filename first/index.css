@@ -1,4 +1,13 @@
-.top-box{
-    background-color: gray;
-    height: 150px;
+body {
+    background-color: rgb(207, 207, 207);
+}
+
+.top-box {
+    background-color:rgb(87, 87, 87);
+    height: 15vh;
+}
+
+.mid-box {
+    color: white;
+    height: 20vh;
 }
