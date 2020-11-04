@@ -9,6 +9,7 @@ body {
   border: 5px solid black;
   padding: 10px;
   box-sizing: border-box ;
+  position: fixed;
 }
 
 .square-one {
