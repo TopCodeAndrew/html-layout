@@ -1,0 +1,25 @@
+body{
+    margin-top:20px;
+}
+
+.top {
+    height: 120px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color:rgb(216,216,216) ;
+}
+
+.blue-top-box {
+    height: 100px;
+    width: 100px;
+    margin-left: 65px;
+    margin-top: -110px;
+    background-color: rgb(75,144,226) ;
+}
+
+.text-body {
+    font-size: 30px;
+    margin-top: 115px;
+    margin-left: 110px;
+    margin-right: 110px;
+}
